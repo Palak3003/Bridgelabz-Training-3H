@@ -18,7 +18,6 @@ public class StringCompare {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first string: ");
         String str1 = sc.next();
-
         System.out.print("Enter second string: ");
         String str2 = sc.next();
         boolean resultCharAt = compareUsingCharAt(str1, str2);
