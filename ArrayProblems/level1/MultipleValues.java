@@ -1,3 +1,4 @@
+package ArrayProblems.level1;
 import java.util.Scanner;
 public class MultipleValues {
     public static void main(String[] args) {
